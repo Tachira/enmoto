@@ -167,7 +167,12 @@ header label:hover {
   #btn-menu:checked ~ .menu {
     margin: 0;
   }
-
+  .right{
+    margin-right: -70%;
+  }
+.left{
+  width:auto;
+}
 }
 
 .imenu img{
